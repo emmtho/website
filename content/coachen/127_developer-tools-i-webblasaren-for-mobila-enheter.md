@@ -14,7 +14,7 @@ När man utvecklar för webbläsaren mot mobila enheter så vill man kunna testa
 Den snabba vägen till det mobila utvecklarverktyget är att:
 
 1. Öppna det vanliga utvecklarverktyget i webbläsaren via F12 eller högerklicka i webbläsaren.
-2. Tryck shift-ctrl-m, eller shift-cmd-m på Mac.
+2. Tryck shift-ctrl-m, eller alt-cmd-m på Mac.
 
 Här är en video som visar hur du kommer igång och hur det kan se ut.
 
